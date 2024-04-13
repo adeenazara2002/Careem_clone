@@ -43,6 +43,7 @@
 .nav2{
     background-color: aqua;
     height: 70px;
+    border-bottom: 1px solid silver;
 }
 
 .opt{
@@ -98,14 +99,39 @@
     font-weight: bold;
     color: #0f2310;
     background-color: transparent;
-    
-
+    /* margin-top: 10px; */
 }
+/* 
+.buttonSpan{
+    margin-top: 10px;
+    display: inline-block;
+  
+} */
 
 .plus{
   font-size: larger;
   margin-right: 5px;
 }
 
+/* Navbar 2 Styling ended */
 
+.navBar3{
+    background-color: paleturquoise;
+    height: 220px;
+    /* margin-right: 100px; */
+}
+
+.navBar3 ul li{
+    display: inline;
+    padding-left: 20px;
+    color: #0f2310;
+    /* margin-left: 100px; */
+}
+
+#allCat{
+    margin-left: 100px;
+    font-weight: bold;
+    font-size: small;
+    color: #0f2310;
+}
 
