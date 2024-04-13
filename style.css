@@ -1,0 +1,111 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.grandDiv{
+    width: 100%;
+    height: 100%;
+}
+/* styling nav */
+
+.nav{
+    background-color: antiquewhite;
+    height: 70px;
+}
+
+.nav ul li{
+    display: inline;
+}
+
+.logo{
+    margin-left: 120px;
+    margin-top: 20px;
+}
+
+/* motor icon */
+._3b2d77d8{
+    margin-left: 40px;
+}
+
+.motor{
+    margin-left: 10px;
+}
+
+.property{
+    margin-left: 10px;
+}
+
+/* styling the stuff of nav2 */
+
+.nav2{
+    background-color: aqua;
+    height: 70px;
+}
+
+.opt{
+    height: 50px;
+    width: 270px;
+    margin-left: 120px;
+    border: 1px solid silver;
+    font-size: 17px;
+    color: #0f2310;
+    padding-left: 30px;
+}
+
+.search{
+    margin-left: 20px;
+    height: 50px;
+    width: 700px;
+    /* margin-top: 10px; */
+    border: 1px solid silver;
+
+}
+
+.btn{
+    width: 50px;
+    border: 1px solid #0f2310;
+    background-color: #0f2310;
+    height: 50px;
+    border-radius: 0px 5px 5px 0px;
+    margin-left: -5px;
+}
+
+.login{
+    color: #0f2310;
+    border-bottom: 2px solid #0f2310;
+    margin-left: 30px;
+    font-weight: bold;
+
+}
+
+.login:hover{
+    border-bottom: hidden;
+    transition-delay: 2s;
+}
+
+.sell{
+    margin-left: 20px;
+    border: 10px solid transparent;
+    padding: 15px;
+    border-image: url(	https://www.olx.com.pk/assets/iconSellBorder_noinline.d9eebe038fbfae9f90fd61d971037e02.svg) 10 round;
+    /* border-radius: 20px; */
+    padding: 5px;
+    width: 100px;
+    height: 45px;
+    font-weight: bold;
+    color: #0f2310;
+    background-color: transparent;
+    
+
+}
+
+.plus{
+  font-size: larger;
+  margin-right: 5px;
+}
+
+
+
