@@ -12,7 +12,7 @@
 /* styling nav */
 
 .nav{
-    background-color: antiquewhite;
+    /* background-color: antiquewhite; */
     height: 70px;
 }
 
@@ -41,7 +41,7 @@
 /* styling the stuff of nav2 */
 
 .nav2{
-    background-color: aqua;
+    /* background-color: aqua; */
     height: 70px;
     border-bottom: 1px solid silver;
 }
@@ -116,7 +116,8 @@
 /* Navbar 2 Styling ended */
 
 .navBar3{
-    background-color: paleturquoise;
+    margin-top: 30px;
+    /* background-color: paleturquoise; */
     height: 220px;
     /* margin-right: 100px; */
 }
@@ -162,7 +163,7 @@
 }
 
 .mobCaption{
-    margin-left: 20px;
+    margin-left: 8px;
     margin-top: 5px;
     font-weight: bold;
 }
@@ -178,4 +179,92 @@
 
 .secondCategoriesImagesdiv{
     display: flex;
+}
+
+.sale{
+    display: block;
+    margin-left: 20px;
+}
+
+.rent{
+    display: block;
+    margin-left: 20px;
+}
+
+.elec{
+    display: block;
+    margin-left: -10px;
+}
+
+.home{
+    display: block;
+    margin-left: 20px;
+}
+
+.app{
+    display: block;
+    /* margin-left: 20px; */
+}
+
+.bikes{
+    margin-left: 20px;
+    margin-top: 5px;
+    font-weight: bold;
+}
+
+.buisness{
+    display: block;
+    margin-left: 5px;
+}
+
+.indus{
+    display: block;
+    margin-left: 3px;
+}
+
+.agri{
+    display: block;
+    margin-left: 5px;
+}
+
+.chicken{
+    margin-left: 120px;
+}
+
+.kids{
+
+    margin-left: 25px;
+    margin-top: 5px;
+    font-weight: bold;
+
+}
+
+.fur{
+    display: block;
+    /* margin-left: 3px; */
+}
+
+.decor{
+    display: block;
+    margin-left: -5px;
+}
+
+.fashion{
+    display: block;
+    margin-left: -5px;
+}
+
+.beauty{
+    display: block;
+    margin-left: 5px;
+}
+
+.bookSports{
+    display: block;
+    margin-left: -9px;
+}
+
+.hob{
+    display: block;
+    margin-left: 5px;
 }
